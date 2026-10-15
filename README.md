@@ -1,2 +1,1 @@
-# GIT1
-hello sansar
+hello theta
